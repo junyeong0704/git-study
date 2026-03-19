@@ -5,6 +5,7 @@ public class VarEx1 {
 
         int num1 = 4;
         int num2 = 3;
+        int num3 = 6;
 
         System.out.println(num1 + num2);
         System.out.println(num1 - num2);
